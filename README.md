@@ -1,3 +1,2 @@
 # odin-recipes-
-project include creating an basic Recipes website
-skills-html
+The project is a simple recipe website created using basic webdevelopment concepts.skills used-html
